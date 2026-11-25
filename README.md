@@ -1,5 +1,6 @@
 # Pivot-Point Ship simulator
 Pivot Point is a ship simulator for android devices. It gives maritime enthusiast everything they ever wanted in a complex and advanced sandbox experience.
+AI was used in the creation of this project.
 
 <img width="1920" height="1080" alt="image-1795609170825" src="https://github.com/user-attachments/assets/cee510ac-d724-4f08-a562-6465027c1ba2" />
 
