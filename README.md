@@ -25,5 +25,18 @@ Pivot Point is a ship simulator for android devices. It gives maritime enthusias
  - Azimuth
  - Water jets
 
-<img width="1080" height="1920" alt="image-1795609195761" src="https://github.com/user-attachments/assets/8ba35009-a3d3-4a73-bba7-329a6a47c9dc" />
+<img width="844" height="390" alt="image-1795608979534" src="https://github.com/user-attachments/assets/f5b106d8-48d4-45f6-a431-b63d9a31d799" />
+
+# License
+All Rights Reserved
+
+Copyright (c) 2026 NAVlad
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
 
